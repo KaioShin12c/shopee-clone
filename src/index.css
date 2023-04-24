@@ -6,3 +6,13 @@
   margin: 0;
   padding: 0;
 }
+
+html {
+  height: 100%;
+  line-height: 1.2;
+}
+
+body {
+  font-weight: 400;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
